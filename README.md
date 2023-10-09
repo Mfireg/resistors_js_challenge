@@ -34,9 +34,8 @@ Windows users: [Windows](https://www.mongodb.com/docs/v3.0/tutorial/install-mong
 ## How to run the project
 ##### Once You have all the requirements completed you just need to open a terminal, navigate to your cloned directory and run the next commands in the exact same order:
 
-	> yarn install
-
-	> yarn start
+	yarn install
+	yarn start
 
 And that is all, if you want to verify the routes you can use [Postman](https://www.postman.com/downloads/) or [Insomnia](https://insomnia.rest/download)
 
