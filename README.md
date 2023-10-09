@@ -44,7 +44,7 @@ Yo wil also need a **.env** file with the structure:
 
 #### NVM
 
-Sometimes could be a bit stressing to manage multiple versions of node so I suggest to use [NVM](https://github.com/nvm-sh/nvm)
+Sometimes could be a bit stressful to manage multiple versions of node so I suggest to use [NVM](https://github.com/nvm-sh/nvm)
 
   
 
