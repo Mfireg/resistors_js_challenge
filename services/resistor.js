@@ -61,7 +61,11 @@ class Resistors {
       bandAColor in this.colorValues &&
       bandBColor in this.colorValues &&
       this.multipliers.has(bandCColor) &&
-      (bandDColor == "" || bandDColor == null || bandDColor == undefined || this.tolerances.has(bandDColor));
+      (bandDColor == "" ||
+        bandDColor == null ||
+        bandDColor == undefined ||
+        bandDColor == "No Color" ||
+        this.tolerances.has(bandDColor));
 
     return isAValidSequence;
   }
