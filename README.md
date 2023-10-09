@@ -26,17 +26,15 @@ Hi :)
 - Studio 3T (Optional if you want to explore your database in a visual way)
 
 Yo wil also need a **.env** file with the structure:
+
 >ENVIRONMENT=your_development_environment
->
 >DEV_DB_SERVER=your_db_server
-DEV_DB_PORT=your_db_port
-DEV_DB_DATABASE=your_db_database
->
+>DEV_DB_PORT=your_db_port
+>DEV_DB_DATABASE=your_db_database
 >SERVER_PORT=your_server_port
->
 >TEST_DB_SERVER=your_test_server
-TEST_DB_PORT=your_test_port
-TEST_DB_DATABASE=your_test_database
+>TEST_DB_PORT=your_test_port
+>TEST_DB_DATABASE=your_test_database
 
 ## Tools
 
